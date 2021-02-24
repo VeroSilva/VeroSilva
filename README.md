@@ -1,16 +1,16 @@
-### Hi there 👋
+#### **Desarrolladora Frontend**
+![**Desarrolladora Frontend**](https://raw.githubusercontent.com/VeroSilva/portfolio/master/img/banner-github.png)
 
-<!--
-**VeroSilva/VeroSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una persona carismática y autodidacta, aprender es parte de un proceso infinito y la tecnología me permite disfrutarlo.
 
-Here are some ideas to get you started:
+Habilidades: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en Proyectos con React 
+- 🌱 Estoy aprendiendo Redux 
+- 📫 Cómo contactarme: veronicasilvabarreto@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VeroSilva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/veronica-silva-frontend//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://verosilva.github.io/portfolio/)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/VeroSilva)  
+
